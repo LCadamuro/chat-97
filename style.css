@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+.logo {
+    width: 30%;
+}
+.header, .form-group {
+    margin: 20px;
+}
